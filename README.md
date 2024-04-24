@@ -28,7 +28,7 @@ jobs:
         with:
           args: install
       - name: Test Code
-        uses: mujo-code/puppeteer-headful@16.6.0
+        uses: KaneFreeman/puppeteer@18.9.0
         env:
           CI: "true"
         with:
