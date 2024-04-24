@@ -1,4 +1,4 @@
-name: "Puppeteer Chrome"
+name: "Puppeteer Chrome Container"
 description: "A GitHub Action / Docker image for Puppeteer, the Chrome Node API so you can test Chrome extensions"
 author: "Daniel Lautzenheiser"
 inputs:
